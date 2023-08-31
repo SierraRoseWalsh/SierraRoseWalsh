@@ -6,4 +6,8 @@ Hello!
 
 Welcome to my website!
 
-! [UNH Graduation] (\Users\sierr\OneDrive\Documents\MySuperAwesomeCoolWebsite\spaulding.jpg)
+
+```{r}
+knitr::include_graphics("/Users/sierr/OneDrive/Documents/My Super Awesome Cool Website/spaulding.jpg")
+```
+
