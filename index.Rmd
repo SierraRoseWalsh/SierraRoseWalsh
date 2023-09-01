@@ -7,7 +7,10 @@ Hello!
 Welcome to my website!
 
 
-```{r}
+```{r, echo=FALSE}
 knitr::include_graphics("/Users/sierr/OneDrive/Documents/My Super Awesome Cool Website/spaulding.jpg")
 ```
 
+
+For more information, feel free to contact me or visit my (LinkedIn)[https://www.linkedin.com/in/sierra-rose-walsh/] page. 
+**Email:** sierrarosewalsh@gmail.com
