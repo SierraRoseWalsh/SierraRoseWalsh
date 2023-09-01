@@ -8,7 +8,11 @@ title: "About Me"
 
 Sierra is a first-year Master's student in Dr. Xuanmao Chen's lab in the Integrative Biology program as part of the Department of Biological Sciences at the University of New Hampshire. Her work focuses on studying neurodegeneration from an evolutionary standpoint and the behaviors of such through translational research. 
 
-After graduating from Sussex County Technical School in 2019 from the Allied Health program with an honors certificate from Rutgers University, Sierra attended the University of New Hampshire for her undergraduate degrees. On May 20th, 2023, Sierra received a Bachelor's in Neuroscience & Behavior with an honors designation and a Bachelor's in Biomedical Sciences: Medical Microbiology with a minor in Zoology, graduating magna cum laude. As part of the Accelerated Master's program, she is continuing her (honors senior thesis)[https://scholars.unh.edu/honors/752/] research for the upcoming years. 
+After graduating from Sussex County Technical School in 2019 from the Allied Health program with an honors certificate from Rutgers University, Sierra attended the University of New Hampshire for her undergraduate degrees. On May 20th, 2023, Sierra received a Bachelor's in Neuroscience & Behavior with an honors designation and a Bachelor's in Biomedical Sciences: Medical Microbiology with a minor in Zoology, graduating magna cum laude. As part of the Accelerated Master's program, she is continuing her [honors senior thesis](https://scholars.unh.edu/honors/752/) research for the upcoming years. 
+
+```{r, echo=FALSE}
+knitr::include_graphics("/Users/sierr/OneDrive/Documents/My Super Awesome Cool Website/thumbs.jpg")
+```
 
 
 **Experiences**
@@ -41,3 +45,8 @@ After graduating from Sussex County Technical School in 2019 from the Allied Hea
   + O'del, Jenna N; Walsh, Sierra Rose M; Spada, Nathaniel N; Harris, Larry G. Green sea urchins need friends: Decision making and risk in Strongylocentrotus droebachiensis in competitive and non-competitive foraging environments. Benthic Ecology Meeting; April 2022; Portsmouth, NH.
 
   + O'del, Jenna N; Walsh, Sierra Rose M; Spada, Nathaniel N; Harris, Larry G. Green sea urchins need friends: Decision making and risk in Strongylocentrotus droebachiensis in competitive and non-competitive foraging environments. UNH Virtual Undergraduate Research Conference; April 2020; Durham, NH.
+
+
+```{r, echo=FALSE}
+knitr::include_graphics("/Users/sierr/OneDrive/Documents/My Super Awesome Cool Website/present.jpg")
+```

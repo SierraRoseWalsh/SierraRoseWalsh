@@ -12,5 +12,5 @@ knitr::include_graphics("/Users/sierr/OneDrive/Documents/My Super Awesome Cool W
 ```
 
 
-For more information, feel free to contact me or visit my (LinkedIn)[https://www.linkedin.com/in/sierra-rose-walsh/] page. 
+For more information, feel free to contact me or visit my [LinkedIn](https://www.linkedin.com/in/sierra-rose-walsh/) page. 
 **Email:** sierrarosewalsh@gmail.com

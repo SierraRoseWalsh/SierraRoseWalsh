@@ -1,0 +1,28 @@
+---
+title: "Welcome to my Life"
+---
+
+```{r, echo=FALSE}
+knitr::include_graphics("/Users/sierr/OneDrive/Documents/My Super Awesome Cool Website/family.jpg")
+```
+                      Some of My Amazing Family
+    
+```{r, echo=FALSE}
+knitr::include_graphics("/Users/sierr/OneDrive/Documents/My Super Awesome Cool Website/iceland.jpg")
+```
+                    Whale Watching in the Arctic Circle
+
+```{r, echo=FALSE}
+knitr::include_graphics("/Users/sierr/OneDrive/Documents/My Super Awesome Cool Website/iceland2.jpg")
+```
+    Jumping Over the North American and European Plate Line in Iceland
+
+```{r, echo=FALSE}
+knitr::include_graphics("/Users/sierr/OneDrive/Documents/My Super Awesome Cool Website/duchess.jpg")
+```
+                                 Duchess!!
+
+```{r, echo=FALSE}
+knitr::include_graphics("/Users/sierr/OneDrive/Documents/My Super Awesome Cool Website/deer.jpg")
+```
+                          Just Feeding the Deer
